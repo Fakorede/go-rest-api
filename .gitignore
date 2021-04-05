@@ -1,0 +1,5 @@
+.env
+tmp
+go.sum
+README.md
+.DS_Store
